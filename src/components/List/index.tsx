@@ -1,12 +1,13 @@
+/* eslint-disable prettier/prettier */
 import {View, Text} from 'react-native';
 import React from 'react';
 
-const List = () => {
+const index = () => {
   return (
     <View>
-      <Text>List</Text>
+      <Text>index</Text>
     </View>
   );
 };
 
-export default List;
+export default index;
